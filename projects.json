@@ -5,7 +5,7 @@
     "role": "Math content and evaluation design",
     "description": "I mapped the evidence an AI tutor can use across grades 3–9, including patterns that signal a misconception. The map gives reviewers a concrete boundary for what the tutor can infer from student work.",
     "category": "AI tutors and evaluation",
-    "format": "Source page",
+    "format": "Tutor evidence map",
     "provenance": "Selected from Downloads",
     "sample": "samples/01-ai-tutor-evidence-map.pdf",
     "preview": "assets/previews/01-ai-tutor-evidence-map.webp"
@@ -16,7 +16,7 @@
     "role": "Standards mapping and review leadership",
     "description": "I worked through a crosswalk covering 2,194 questions and made the quality of each standards match visible for review.",
     "category": "Standards and assessment",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/02-math-standards-crosswalk.pdf",
     "preview": "assets/previews/02-math-standards-crosswalk.webp"
@@ -27,7 +27,7 @@
     "role": "Coverage analysis",
     "description": "I checked the approved question bank against 148 standards and documented 43 gaps for targeted writing.",
     "category": "Standards and assessment",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/03-question-bank-coverage-audit.pdf",
     "preview": "assets/previews/03-question-bank-coverage-audit.webp"
@@ -38,7 +38,7 @@
     "role": "Curriculum and skill decomposition",
     "description": "I broke six grades of math standards into assessable skills so the team could plan coverage without counting the same skill twice.",
     "category": "Curriculum and instruction",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/04-grades-1-6-skill-tracker.pdf",
     "preview": "assets/previews/04-grades-1-6-skill-tracker.webp"
@@ -49,7 +49,7 @@
     "role": "Prompt and assessment review",
     "description": "I set rules for question difficulty and answer explanations, then used examples to check whether generated items matched the intended standard.",
     "category": "AI tutors and evaluation",
-    "format": "Work sample",
+    "format": "Prompt excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/05-ai-assisted-item-design.pdf",
     "preview": "assets/previews/05-ai-assisted-item-design.webp"
@@ -60,7 +60,7 @@
     "role": "Product and SME review",
     "description": "I reviewed a standards-mapping output against lesson activities and recorded where the match was exact, partial, or needed correction.",
     "category": "Standards and assessment",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/06-florida-alignment-review.pdf",
     "preview": "assets/previews/06-florida-alignment-review.webp"
@@ -71,7 +71,7 @@
     "role": "Supervising editor and case-study writer",
     "description": "I supervised a correlation across two higher-ed math titles and documented where the Texas standards were covered or missing.",
     "category": "Standards and assessment",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/07-texas-teks-correlations.pdf",
     "preview": "assets/previews/07-texas-teks-correlations.webp"
@@ -82,7 +82,7 @@
     "role": "Supervising editor",
     "description": "I led the development and review of teacher guides for statistics and quantitative reasoning. A prototype led to full guides for two titles.",
     "category": "Curriculum and instruction",
-    "format": "Work sample",
+    "format": "Teacher guide outline",
     "provenance": "Selected from Downloads",
     "sample": "samples/08-teacher-resource-guides.pdf",
     "preview": "assets/previews/08-teacher-resource-guides.webp"
@@ -93,7 +93,7 @@
     "role": "Supervising editor",
     "description": "I helped move six missions of standards-aligned questions through a fast draft and revision cycle, with answer rationales for each item.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Assessment item excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/09-kindergarten-selected-response-practice.pdf",
     "preview": "assets/previews/09-kindergarten-selected-response-practice.webp"
@@ -104,7 +104,7 @@
     "role": "Editor and checklist author",
     "description": "I wrote a review checklist for TX STAAR math items covering wording, math, metadata, and accessibility. The 900-item program reached 98% no-rewrite acceptance.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Editorial checklist",
     "provenance": "Selected from Downloads",
     "sample": "samples/10-tx-staar-assessment-review.pdf",
     "preview": "assets/previews/10-tx-staar-assessment-review.webp"
@@ -115,7 +115,7 @@
     "role": "Item author and editor",
     "description": "I wrote standards-tagged geometry items with DOK levels and feedback tied to likely student mistakes.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Assessment item excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/11-geometry-benchmark-items.pdf",
     "preview": "assets/previews/11-geometry-benchmark-items.webp"
@@ -126,7 +126,7 @@
     "role": "Math item writing and review",
     "description": "I wrote adaptive statistics questions with worked answers and explanations that address common errors.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Question framework",
     "provenance": "Selected from Downloads",
     "sample": "samples/12-adaptive-statistics-questions.pdf",
     "preview": "assets/previews/12-adaptive-statistics-questions.webp"
@@ -137,7 +137,7 @@
     "role": "Template and item design",
     "description": "I built a parent-item template for consistent variants, then drafted calculus questions with solution and distractor notes.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Test-bank template",
     "provenance": "Selected from Downloads",
     "sample": "samples/13-calculus-test-bank-system.pdf",
     "preview": "assets/previews/13-calculus-test-bank-system.webp"
@@ -148,7 +148,7 @@
     "role": "Review criteria and calibration",
     "description": "I reviewed generated parent and child items for alignment, clarity, readability, and answer quality, and recorded the issues for revision.",
     "category": "AI tutors and evaluation",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/14-ai-assessment-evaluation.pdf",
     "preview": "assets/previews/14-ai-assessment-evaluation.webp"
@@ -159,7 +159,7 @@
     "role": "Editorial and SME direction",
     "description": "I reviewed a video lesson that pairs explanation with questions about data spread so students work through the comparison themselves.",
     "category": "Curriculum and instruction",
-    "format": "Source page",
+    "format": "Interactive lesson excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/15-interactive-math-video.pdf",
     "preview": "assets/previews/15-interactive-math-video.webp"
@@ -170,7 +170,7 @@
     "role": "Slide development and editorial direction",
     "description": "I developed and reviewed short worked-example visuals that show two ways to find the area of a rectangle, from counting squares to multiplying dimensions.",
     "category": "Curriculum and instruction",
-    "format": "Presentation visual",
+    "format": "Slide",
     "provenance": "Selected from Downloads",
     "sample": "samples/16-worked-examples-in-math.pdf",
     "preview": "assets/previews/16-worked-examples-in-math.webp"
@@ -181,7 +181,7 @@
     "role": "Editorial and SME review",
     "description": "I reviewed higher-ed math practice across a large worksheet program, including questions on confidence intervals and margins of error.",
     "category": "Curriculum and instruction",
-    "format": "Work sample",
+    "format": "Statistics worksheet excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/17-higher-ed-statistics-worksheets.pdf",
     "preview": "assets/previews/17-higher-ed-statistics-worksheets.webp"
@@ -192,7 +192,7 @@
     "role": "Supervising editor and SME review",
     "description": "I reviewed the math and teaching in a secondary teacher-preparation course, including practice on modeling real constraints with inequalities.",
     "category": "Curriculum and instruction",
-    "format": "Work sample",
+    "format": "Course practice excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/18-secondary-math-course-practice.pdf",
     "preview": "assets/previews/18-secondary-math-course-practice.webp"
@@ -203,7 +203,7 @@
     "role": "Lesson author and editor",
     "description": "I built a model lesson that uses thermometers and number lines to make decimal comparison and rounding concrete.",
     "category": "Curriculum and instruction",
-    "format": "Work sample",
+    "format": "Lesson excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/19-comparing-decimals-lesson.pdf",
     "preview": "assets/previews/19-comparing-decimals-lesson.webp"
@@ -214,7 +214,7 @@
     "role": "Item author and editor",
     "description": "I wrote application questions that connect calculus to real situations and show each step of the solution.",
     "category": "Standards and assessment",
-    "format": "Work sample",
+    "format": "Applied question excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/20-applied-calculus-questions.pdf",
     "preview": "assets/previews/20-applied-calculus-questions.webp"
@@ -225,7 +225,7 @@
     "role": "AI tutor math evaluation",
     "description": "I reviewed seven selected tutor cases to test which evidence about averages and range could be identified reliably. The resulting notes distinguish a student error from a tutor inference.",
     "category": "AI tutors and evaluation",
-    "format": "Work sample",
+    "format": "Tutor review framework",
     "provenance": "Selected from Downloads",
     "sample": "samples/21-student-conversation-review.pdf",
     "preview": "assets/previews/21-student-conversation-review.webp"
@@ -236,7 +236,7 @@
     "role": "Curriculum and product design",
     "description": "I defined how each scored mission connects to one assessable component while keeping prerequisites and grade-level mastery separate.",
     "category": "AI tutors and evaluation",
-    "format": "Specification excerpt",
+    "format": "Mission specification",
     "provenance": "Selected from Downloads",
     "sample": "samples/22-grade-1-mission-specification.pdf",
     "preview": "assets/previews/22-grade-1-mission-specification.webp"
@@ -247,7 +247,7 @@
     "role": "Editorial direction",
     "description": "I directed a map of objectives shared across courses, making repetition and gaps visible before content was revised.",
     "category": "AI tutors and evaluation",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Previous portfolio / original workbook",
     "sample": "samples/23-cross-course-learning-objective-map.pdf",
     "preview": "assets/previews/23-cross-course-learning-objective-map.webp"
@@ -269,7 +269,7 @@
     "role": "Case study writing and project leadership",
     "description": "I documented how the team kept a teacher-guide project moving through a two-month pause. The successful prototype led to completed guides for two math titles.",
     "category": "Editorial leadership and operations",
-    "format": "Case study slide excerpt",
+    "format": "Case study slide",
     "provenance": "Previous portfolio / original slide",
     "sample": "samples/25-teacher-guide-delivery-case-study.pdf",
     "preview": "assets/previews/25-teacher-guide-delivery-case-study.webp"
@@ -280,7 +280,7 @@
     "role": "Estimating and project planning",
     "description": "I broke teacher-guide work into repeatable parts so the schedule and effort estimate could scale with the scope.",
     "category": "Editorial leadership and operations",
-    "format": "Workbook sample",
+    "format": "Workbook excerpt",
     "provenance": "Previous portfolio / original workbook",
     "sample": "samples/26-time-on-task-estimating-model.pdf",
     "preview": "assets/previews/26-time-on-task-estimating-model.webp"
@@ -291,7 +291,7 @@
     "role": "Production planning and editorial direction",
     "description": "I planned writer assignments, item volume, and review timing for a large calculus assessment program.",
     "category": "Editorial leadership and operations",
-    "format": "Workflow workbook excerpt",
+    "format": "Workflow excerpt",
     "provenance": "Previous portfolio / original workbook",
     "sample": "samples/27-assessment-authoring-workflow.pdf",
     "preview": "assets/previews/27-assessment-authoring-workflow.webp"
@@ -302,7 +302,7 @@
     "role": "Team and service direction",
     "description": "I presented the team’s range of math work, from assessment writing and standards alignment to video and AI-content review.",
     "category": "Editorial leadership and operations",
-    "format": "Presentation excerpt",
+    "format": "Slide excerpt",
     "provenance": "Previous portfolio / original deck",
     "sample": "samples/28-math-team-capabilities-deck.pdf",
     "preview": "assets/previews/28-math-team-capabilities-deck.webp"
@@ -313,7 +313,7 @@
     "role": "Editorial workflow direction",
     "description": "I directed a shared terminology list and QA checkpoints so localized lessons stayed consistent across courses.",
     "category": "Editorial leadership and operations",
-    "format": "Glossary workbook excerpt",
+    "format": "Terminology workbook excerpt",
     "provenance": "Previous portfolio / original workbook",
     "sample": "samples/29-canadian-localization-qa.pdf",
     "preview": "assets/previews/29-canadian-localization-qa.webp"
@@ -335,7 +335,7 @@
     "role": "Prompt author",
     "description": "I wrote a five-grade check for deciding whether a math question truly fits a target standard. It tests number limits and representations before looking at nearby grades.",
     "category": "Standards and assessment",
-    "format": "Prompt sample",
+    "format": "Prompt excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/31-five-grade-standards-alignment-prompt.pdf",
     "preview": "assets/previews/31-five-grade-standards-alignment-prompt.webp"
@@ -346,7 +346,7 @@
     "role": "Prompt author",
     "description": "I set rules for an extended-thinking task a student can complete with an AI tutor. The prompt asks for decisions, testing, revision, and reflection while staying inside the grade-level standard.",
     "category": "AI tutors and evaluation",
-    "format": "Prompt sample",
+    "format": "Prompt excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/32-dok-4-tutor-task-prompt.pdf",
     "preview": "assets/previews/32-dok-4-tutor-task-prompt.webp"
@@ -357,7 +357,7 @@
     "role": "Prompt author",
     "description": "I wrote guardrails for generating standards-aligned math questions when a bank has a gap. The questions have to use realistic quantities, clear units, and enough information to stand on their own.",
     "category": "AI tutors and evaluation",
-    "format": "Prompt sample",
+    "format": "Prompt excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/33-math-question-gap-filling-prompt.pdf",
     "preview": "assets/previews/33-math-question-gap-filling-prompt.webp"
@@ -368,7 +368,7 @@
     "role": "Blueprint and math review",
     "description": "I planned six multiple-integrals lessons by exercise family, DOK level, objective, and graphic need. The blueprint organized 48 exercise sets and 528 questions for writing.",
     "category": "Standards and assessment",
-    "format": "Blueprint sample",
+    "format": "Test-bank blueprint",
     "provenance": "Selected from Downloads",
     "sample": "samples/34-multiple-integrals-test-bank-blueprint.pdf",
     "preview": "assets/previews/34-multiple-integrals-test-bank-blueprint.webp"
@@ -379,7 +379,7 @@
     "role": "Math and item-quality review",
     "description": "I audited a 25-question calculus bank for math, answer logic, LaTeX, and variant dependencies. The review calls out six blocking errors and gives writers exact fixes.",
     "category": "Standards and assessment",
-    "format": "Audit sample",
+    "format": "Audit excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/35-calculus-item-math-and-dependency-audit.pdf",
     "preview": "assets/previews/35-calculus-item-math-and-dependency-audit.webp"
@@ -390,7 +390,7 @@
     "role": "Editorial and math review",
     "description": "I tracked changes to 17 precalculus quiz questions through QC and SME review. The log shows which feedback on number lines, notation, and solution steps was addressed.",
     "category": "Standards and assessment",
-    "format": "Workbook review excerpt",
+    "format": "Review log excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/36-precalculus-quiz-review-log.pdf",
     "preview": "assets/previews/36-precalculus-quiz-review-log.webp"
@@ -401,7 +401,7 @@
     "role": "Item editing and math review",
     "description": "I revised a 27-item piecewise-function set to make graph choices and endpoint inclusion precise. The excerpt shows how the answer options differ at the boundaries.",
     "category": "Standards and assessment",
-    "format": "Original item-repair excerpt",
+    "format": "Item revision excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/37-piecewise-function-item-repair.pdf",
     "preview": "assets/previews/37-piecewise-function-item-repair.webp"
@@ -412,7 +412,7 @@
     "role": "Assessment planning and SME review",
     "description": "I helped plan 30-item geometry and algebra forms, balancing item types and mathematical domains so the assessment covers more than routine multiple choice.",
     "category": "Standards and assessment",
-    "format": "Workbook blueprint excerpt",
+    "format": "Assessment blueprint",
     "provenance": "Selected from Downloads",
     "sample": "samples/38-algebra-ii-and-geometry-assessment-blueprint.pdf",
     "preview": "assets/previews/38-algebra-ii-and-geometry-assessment-blueprint.webp"
@@ -423,7 +423,7 @@
     "role": "Editorial direction and math SME review",
     "description": "I helped shape a statistics activity that moves from a scatterplot to a regression line and residual plot. Students use the evidence to decide whether a new point is influential.",
     "category": "Curriculum and instruction",
-    "format": "Activity sample",
+    "format": "Activity excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/39-residual-plot-student-activity.pdf",
     "preview": "assets/previews/39-residual-plot-student-activity.webp"
@@ -434,7 +434,7 @@
     "role": "Math SME and item review",
     "description": "I reviewed higher-ed calculus items on binomial and Taylor series, including learning objectives and answer choices. The excerpt shows the section structure and the questions under review.",
     "category": "Standards and assessment",
-    "format": "Item sample",
+    "format": "Assessment item excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/40-taylor-series-item-review.pdf",
     "preview": "assets/previews/40-taylor-series-item-review.webp"
@@ -445,7 +445,7 @@
     "role": "Crosswalk author",
     "description": "I compared grades 3–5 B.E.S.T. benchmarks with CCSS standards and recorded the strength and limits of each match. The notes make the alignment decision visible.",
     "category": "Standards and assessment",
-    "format": "Original crosswalk excerpt",
+    "format": "Standards crosswalk excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/41-florida-b-e-s-t-to-ccss-crosswalk.pdf",
     "preview": "assets/previews/41-florida-b-e-s-t-to-ccss-crosswalk.webp"
@@ -456,7 +456,7 @@
     "role": "Editorial and SME evidence review",
     "description": "I checked a Financial Algebra program against a Texas instructional-materials rubric. The evidence log ties specific course materials to each review criterion.",
     "category": "Standards and assessment",
-    "format": "Original rubric excerpt",
+    "format": "Rubric evidence log",
     "provenance": "Selected from Downloads",
     "sample": "samples/42-financial-algebra-quality-rubric-review.pdf",
     "preview": "assets/previews/42-financial-algebra-quality-rubric-review.webp"
@@ -467,7 +467,7 @@
     "role": "Standards and item review",
     "description": "I reviewed 386 flagged grade 4 rows where the assigned standard changed. The workbook preserves the tested skill, old code, new code, and rationale.",
     "category": "Standards and assessment",
-    "format": "Workbook audit excerpt",
+    "format": "Standards audit excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/43-grade-4-standards-remapping-audit.pdf",
     "preview": "assets/previews/43-grade-4-standards-remapping-audit.webp"
@@ -478,7 +478,7 @@
     "role": "Math SME scoping",
     "description": "I inventoried pages with math across technical training books so the team could size its review effort. This is the page-level count behind the staffing estimate.",
     "category": "Editorial leadership and operations",
-    "format": "Workbook inventory excerpt",
+    "format": "Math inventory excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/44-math-content-census-across-technical-titles.pdf",
     "preview": "assets/previews/44-math-content-census-across-technical-titles.webp"
@@ -489,7 +489,7 @@
     "role": "Editorial direction and math SME review",
     "description": "I provided editorial and math review on a grade 7 lesson that moves from reading a circle graph to using proportions and sector angles. The excerpt shows the student-facing progression.",
     "category": "Curriculum and instruction",
-    "format": "Lesson sample",
+    "format": "Lesson excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/45-grade-7-circle-graph-lesson-sample.pdf",
     "preview": "assets/previews/45-grade-7-circle-graph-lesson-sample.webp"
@@ -500,7 +500,7 @@
     "role": "Editorial direction and math SME review",
     "description": "I helped guide a multiplication unit from equal groups and arrays through skip counting and word problems. The sequence shows how early concepts build before independent practice.",
     "category": "Curriculum and instruction",
-    "format": "Unit sample",
+    "format": "Unit excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/46-introducing-multiplication-unit-design.pdf",
     "preview": "assets/previews/46-introducing-multiplication-unit-design.webp"
@@ -511,7 +511,7 @@
     "role": "AI tutor math evaluation",
     "description": "I mapped productive and problematic reasoning about ratios and percents using 31 anchor questions and 95 eligible tutor conversations. The evidence sets boundaries for what the tutor can infer.",
     "category": "AI tutors and evaluation",
-    "format": "Original facet-map excerpt",
+    "format": "Tutor evidence map",
     "provenance": "Selected from Downloads",
     "sample": "samples/47-ratios-and-percents-tutor-evidence-map.pdf",
     "preview": "assets/previews/47-ratios-and-percents-tutor-evidence-map.webp"
@@ -522,7 +522,7 @@
     "role": "Editorial direction and math SME review",
     "description": "I reviewed an expected-value activity built around an extended-warranty decision. Students use probabilities and payouts to explain what the expected value means for a consumer.",
     "category": "Curriculum and instruction",
-    "format": "Activity sample",
+    "format": "Activity excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/48-expected-value-student-activity.pdf",
     "preview": "assets/previews/48-expected-value-student-activity.webp"
@@ -533,7 +533,7 @@
     "role": "Editorial direction and accessibility SME review",
     "description": "I helped guide the rules for describing equations, tables, and graphs in math content. The examples show how spoken math can stay precise without overloading the reader.",
     "category": "Editorial leadership and operations",
-    "format": "Original accessibility-guide excerpt",
+    "format": "Accessibility guide excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/49-math-alt-text-rules.pdf",
     "preview": "assets/previews/49-math-alt-text-rules.webp"
@@ -544,7 +544,7 @@
     "role": "Production planning and editorial direction",
     "description": "I scheduled 96 lessons across seven freelancers, from parent-item drafting through review, variants, and final approval. The plan makes each handoff and its volume visible.",
     "category": "Editorial leadership and operations",
-    "format": "Original schedule excerpt",
+    "format": "Production schedule excerpt",
     "provenance": "Selected from Downloads",
     "sample": "samples/50-lesson-production-and-review-schedule.pdf",
     "preview": "assets/previews/50-lesson-production-and-review-schedule.webp"

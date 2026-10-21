@@ -82,4 +82,4 @@ These are selected, redacted excerpts. Original client and publisher materials r
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jordanbmitchell/) · [Email](mailto:jordanbenjaminmitchell@gmail.com)
+**Email:** [jordanbenjaminmitchell@gmail.com](mailto:jordanbenjaminmitchell@gmail.com)  ·  **LinkedIn:** [linkedin.com/in/jordanbmitchell](https://www.linkedin.com/in/jordanbmitchell/)
